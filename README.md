@@ -15,36 +15,36 @@ A web application that analyzes Nigerian legal documents using AI to provide ins
 
 ## Tech Stack
 
-- Next.js 14 (App Router)
-- TypeScript
-- Tailwind CSS
-- Groq AI
-- Zustand for state management
-- Shadcn/ui components
+Next.js 14 (App Router)
+TypeScript
+Tailwind CSS
+Groq AI
+Zustand for state management
+Shadcn/ui components
 
-## Getting Started
+Getting Started
 
 1. Clone the repository:
-\`\`\`bash
-git clone [your-repo-url]
-cd [your-repo-name]
-\`\`\`
+bash
+git clone [https://github.com/Miragecodexx/legal-adviser.git]
+cd [legal-adviser]
+
 
 2. Install dependencies:
-\`\`\`bash
+bash
 npm install
-\`\`\`
+
 
 3. Set up environment variables:
 Create a \`.env.local\` file with:
-\`\`\`
+
 GROQ_API_KEY=your_groq_api_key
-\`\`\`
+
 
 4. Run the development server:
-\`\`\`bash
+bash
 npm run dev
-\`\`\`
+
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
