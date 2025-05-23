@@ -50,7 +50,7 @@ npm run dev
 
 ## Environment Variables
 
-- \`GROQ_API_KEY\`: Your Groq API key for AI analysis
+GROQ_API_KEY: Your Groq API key for AI analysis
 
 ## Deployment
 
