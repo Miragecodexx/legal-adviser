@@ -54,7 +54,7 @@ npm run dev
 
 ## Deployment
 
-This project is deployed on Vercel. The production version can be found at [your-project-url].
+This project is deployed on Vercel. The production version can be found at .
 
 ## Contributing
 
@@ -62,4 +62,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Choose an appropriate license]
+MIT
